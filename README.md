@@ -1,6 +1,6 @@
 <h1 align="center"> 🧠 AI-SOCA: AI-Driven Adaptive SOC Assistant </h1>
 
-![logo](https://github.com/user-attachments/assets/c93495d6-320d-4490-99df-d9fded99f496)
+![logo](https://github.com/user-attachments/assets/6d37c622-451d-4af4-b477-1a2fc142697f)
 
 ---
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blueviolet) ![Streamlit](https://img.shields.io/badge/Streamlit-1.25%2B-brightgreen) ![Groq AI](https://img.shields.io/badge/Groq%20AI-Powered-blue)
@@ -99,19 +99,19 @@ CVE-2024-3094
 
 | **Summarize Logs** |
 |--------------------------------------------------------------------------------------------------|
-|![Summarize Logs](https://github.com/user-attachments/assets/18a40d5f-8077-4768-b3cb-3edac79600cc)|
+|![Summarize Logs](https://github.com/user-attachments/assets/3d08ecf8-0d9c-477d-bce3-031d0bf2ae79)|
 
 | **Recommend Playbook** |
 |------------------------------------------------------------------------------------------------------|
-|![Recommend Playbook](https://github.com/user-attachments/assets/1e96ce4e-0d67-4819-ac5d-243654c47c91)|
+|![Recommend Playbook](https://github.com/user-attachments/assets/16dcf336-72fc-475d-bdb7-40115f9ca30f)|
 
 | **Contextualize CVE** |
 |-----------------------------------------------------------------------------------------------------|
-|![Contextualize CVE](https://github.com/user-attachments/assets/be916638-765e-47a9-b3ec-03b882fdffe1)|
+|![Contextualize CVE](https://github.com/user-attachments/assets/f42a16fb-9fe2-4a6f-bf05-31bcbb230f23)|
 
 | **Chat Interface Example** |
 |----------------------------------------------------------------------------------------------------------|
-|![Chat Interface Example](https://github.com/user-attachments/assets/2341203b-54fb-4dd0-bf40-6e1a773ff6f6)|
+|![Chat Interface Example](https://github.com/user-attachments/assets/3024058e-df9e-4b0e-b23c-02c14cedafe2)|
 
 
 ---
@@ -126,11 +126,7 @@ Have questions or suggestions? Feel free to reach out:
 
 - 📧 [Email](mailto:gauravghandat12@gmail.com)
 - 💼 [LinkedIn](www.linkedin.com/in/gaurav-ghandat-68a5a22b4)
----
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 
 
